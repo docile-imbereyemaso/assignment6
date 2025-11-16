@@ -96,3 +96,4 @@ Access the dashboard, manage employees (Add/Edit/Delete/View)
 Logout when done
 Optional: Use “Remember Me” to stay logged in for 30 days
 GitHub Repository
+https://github.com/docile-imbereyemaso/assignment6
